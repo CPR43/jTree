@@ -48,7 +48,7 @@ function rearrange() {
     $('li ul').each(function(){
         var temp = 0;
         var ul = $(this);
-        $(this).children('li').each(function() {
+        ul.children('li').each(function() {
             if ($(this).children('ul').length > 0) {
                 $(this).prependTo(ul);
             };
