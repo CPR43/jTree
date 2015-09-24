@@ -1,5 +1,5 @@
 # jTree
-jTree is a small jQuery plugin that helps you build a nice clean, sortable and selectable file tree structure from a JSON object.
+jTree is a small jQuery plugin that helps you build a nice clean and selectable file tree structure from a JSON object.
 jTree has depedency on 
 1. jQuery FrameWork 
 2. font-awesome.min.css of bootstrap plugin 
